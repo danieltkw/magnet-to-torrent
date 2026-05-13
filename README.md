@@ -1,7 +1,7 @@
 
 
 
-# magnet2torrent-batch
+# magnet-to-torrent
 
 Small script to turn `.magnet` files in the current folder into `.torrent` files using the `magnet2torrent` library.
 
